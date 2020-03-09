@@ -1,3 +1,4 @@
-1- cat.
-2- dog.
+1-cat.
+2-dog.
 3-hamster.
+4-horse.
