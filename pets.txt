@@ -2,3 +2,6 @@
 2-dog.
 3-hamster.
 4-horse.
+5-sheep
+6- duck
+7-turtle
